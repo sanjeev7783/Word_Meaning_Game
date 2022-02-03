@@ -1,0 +1,2 @@
+# Word_Meaning_Game
+This is a game in which two players can play the game of words. The start of game takes place with the letter "a" ,the first player has to type the words starting with letter "a". lets say apple. Now, the second player has to type the word starts with "e" ( as the word apple ends with "e" ).If the word is correct in meaning the players will get rewared with +1 Score else they are rewarded as -1.  Note: The user decide the number of turns they want to play. They can leave whenever they want. 
